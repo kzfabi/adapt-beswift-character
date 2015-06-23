@@ -1,0 +1,12 @@
+{
+    "_id": "c55",
+    "_parentId": "b-20",
+    "_type": "component",
+    "_component": "beswift-character",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Beswift Character",
+    "body": "Beswift Character component under development by Kaizen Softworks.",
+    "instruction": "",
+    "characterId": "Mario"
+}
