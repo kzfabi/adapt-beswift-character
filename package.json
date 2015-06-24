@@ -1,6 +1,6 @@
 {
     "name": "adapt-beswift-character",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "description": "Adapt Authoring plugin component. Represents a character for Beswift.",
     "main": "",
     "scripts": {
@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/adaptlearning/adapt-contrib-text.git"
+        "url": "git://github.com/kzfabi/adapt-beswift-character.git"
     },
     "author": "AdaptLearning",
     "license": "GPL v3",
     "bugs": {
-        "url": "https://github.com/adaptlearning/adapt-contrib-text/issues"
+        "url": "https://github.com/kzfabi/adapt-beswift-character.git/issues"
     },
     "devDependencies": {
         "karma": "~0.9",

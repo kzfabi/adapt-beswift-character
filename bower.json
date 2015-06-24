@@ -3,7 +3,7 @@
     "displayName": "Beswift Character",
     "keywords": [ "adapt-component" ],
     "component": "beswift-character",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "authors": [ "Raccoon" ],
     "description": "Adapt Authoring plugin component. Represents a character for Beswift.",
     "main": "/js/adapt-beswift-character.js",
